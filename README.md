@@ -10,10 +10,10 @@ Caso você pretenda ser um tutor de aprendizagem em laboratório, siga os seguin
 
 ## Problemas
 
-1. [10 pontos] Altere o código do arquivo [src/p01.py](./src/p01.py) para que ele exiba o menu várias vezes no terminal até que o usuário entre com a opção de número *5*.
-2. [20 pontos] Copie o código alterado da questão anterior para o arquivo [src/p02.py](./src/p02.py) e implemente um rascunho das funções `cadastrar()`, `listar()`, `atualizar()` e `excluir()` de tal sorte que cada uma delas exiba uma mensagem informando o nome da função escolhida.
-3. [30 pontos] Usando como base as classes de objetos do arquivo [src/p03.py](./src/p03.py), crie um objeto da classe *Estudante* para guardar os dados de um estudante qualquer. Os dados de tal estudante deverão ser solicitados pelo usuário de seu script.
-4. [40 pontos] Copie o código alterado da questão 2 para o arquivo [src/p04.py](./src/p04.py) e implemente as funções `cadastrar()`, `listar()`, `atualizar()` e `excluir()`, aproveitando tudo o que você já fez nas questões 1, 2 e 3.
+1. [10 pontos] Altere o código do arquivo [src/python/p01.py](./src/python/p01.py) ou [src/js/j01.js](./src/js/j01.js) para que ele exiba o menu várias vezes no terminal até que o usuário entre com a opção de número *5*.
+2. [20 pontos] Copie o código alterado da questão anterior para o arquivo [src/python/p02.py](./src/python/p02.py) ou [src/js/j02.js](./src/js/j02.js) e implemente um rascunho das funções `cadastrar()`, `listar()`, `atualizar()` e `excluir()` de tal sorte que cada uma delas exiba uma mensagem informando o nome da função escolhida.
+3. [30 pontos] Usando como base as classes de objetos do arquivo [src/python/p03.py](./src/python/p03.py) ou [src/js/j03.js](./src/js/j03.js), crie um objeto da classe *Estudante* para guardar os dados de um estudante qualquer. Os dados de tal estudante deverão ser solicitados pelo usuário de seu script.
+4. [40 pontos] Copie o código alterado da questão 2 para o arquivo [src/python/p04.py](./src/python/p04.py) ou [src/js/j04.js](./src/js/j04.js) e implemente as funções `cadastrar()`, `listar()`, `atualizar()` e `excluir()`, aproveitando tudo o que você já fez nas questões 1, 2 e 3.
 
 
 [^1]: *fork* em inglês
