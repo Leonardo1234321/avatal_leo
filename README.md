@@ -4,8 +4,8 @@ Caso você pretenda ser um tutor de aprendizagem em laboratório, siga os seguin
 
 1. [05 pontos] Faça uma bifurcação[^1] deste repositório no [GitHub](https://github.com);
 2. [05 pontos] Clone a bifurcação para um diretório de seu computador;
-3. [80 pontos] Resolva os problemas propostos usando a linguagem de programação [Python](https://python.org);
-4. [05 pontos] Registre[^2] as modificações feitas nos arquivos do diretório [src](./src) e
+3. [80 pontos] Resolva os problemas propostos usando a linguagem de programação [Python](https://python.org) ou [Javascript] (https://www.javascript.com/);
+4. [05 pontos] Registre[^2] as modificações feitas nos arquivos do diretório [src](./src/python) ou (./src/js) para Javascript.
 5. [05 pontos] Envie as mudanças registradas[^3] para o repositório remoto que foi utilizado na clonagem do passo 2.
 
 ## Problemas
